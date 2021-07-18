@@ -32,6 +32,11 @@ h2 {
 }
 
 .Contacts-Text {
-  color: blue;
+  color: cornflowerblue;
   list-style-type: none;
+}
+
+a:visited,
+a:link {
+  color: cornflowerblue;
 }
